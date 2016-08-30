@@ -1,0 +1,117 @@
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\AHAnew.gbd
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.dll
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Core.dll
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.dll
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.xml
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.xml
+C:\Users\cvismara\Documents\AHA\NinoC\VGB\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\AHAnew.gbd
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\paulo\Documents\MEGA\Tese\Software\SoftwareNino\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\DataBase1.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\AHAnew.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\Seated.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Database\DataBase1.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Bson.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\bin\x86\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\App.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\MainWindow.baml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\DiscreteGestureBasics-WPF\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\DiscreteGestureBasics-WPF.exe.config
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Database\AHAnew.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Database\Seated.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Database\DataBase1.gbd
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\DiscreteGestureBasics-WPF.exe
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\DiscreteGestureBasics-WPF.pdb
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Microsoft.Kinect.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Bson.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Driver.Core.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Driver.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Driver.Legacy.dll
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Microsoft.Kinect.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Bson.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Driver.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\bin\x86\Debug\MongoDB.Driver.Legacy.xml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\MainWindow.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\App.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF_Content.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.cache
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF_MarkupCompile.lref
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\MainWindow.baml
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF.g.resources
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\Microsoft.Samples.Kinect.DiscreteGestureBasics.Properties.Resources.resources
+C:\Users\paulo\Documents\Visual Studio 2015\Projects\Detection Software\obj\x86\Debug\DiscreteGestureBasics-WPF.csproj.GenerateResource.Cache
